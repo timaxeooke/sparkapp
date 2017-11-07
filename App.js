@@ -11,6 +11,8 @@ import {
   Text,
   View
 } from 'react-native';
+import Firebase from './Firebase.js'
+import firebase from 'firebase';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
@@ -20,6 +22,12 @@ const instructions = Platform.select({
 });
 
 export default class App extends Component<{}> {
+
+  constructor(props) {
+    super(props);
+    Firebase.initialize();
+  }
+
   render() {
     return (
       <View style={styles.container}>
