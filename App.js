@@ -11,7 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
-import Firebase from './Firebase.js'
+import Firebase from './js/firebase/Firebase.js'
 import firebase from 'firebase';
 
 const instructions = Platform.select({
