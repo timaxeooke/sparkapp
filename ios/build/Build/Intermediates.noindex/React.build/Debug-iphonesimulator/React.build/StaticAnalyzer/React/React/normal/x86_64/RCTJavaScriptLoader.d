@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/max/SPARK/SPARK_PROJECT/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/max/SPARK/SPARK_PROJECT/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/max/SPARK/SPARK_PROJECT/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/max/SPARK/SPARK_PROJECT/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/max/SPARK/SPARK_PROJECT/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/max/SPARK/SPARK_PROJECT/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/max/SPARK/SPARK_PROJECT/node_modules/react-native/React/Base/RCTPerformanceLogger.h
